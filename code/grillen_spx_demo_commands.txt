@@ -1,0 +1,5 @@
+spx translate --microphone --source en-US --target de-DE --output file has header false --output file german_translation_v4.txt
+
+spx synthesize --file german_translation_v3.txt --voice de-DE-KatjaNeural --speakers
+
+Immersive Reader can be a very helpful tool to demonstrate a variety of language concepts. Because I am speaking to an international audience who speaks many different languages, I'd like to demonstrate this for them. For example, let's look at the difference between an apple and an orange.
